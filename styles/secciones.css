@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: lato;
+    src: url(../fuente/Lato-Regular.ttf);
+}
+h1, h2, h4, h5, h6{
+    text-transform:uppercase;
+    color: #444;
+    font-family: rale;
+    letter-spacing: 1px;
+}
+
+#acordion{
+    text-align: center;
+}
+
+p{
+    color: #888;
+    font-family: lato;
+    font-size: 15px;
+}
+
+#sec-acordion p{
+    text-align: center;
+}
+#sec-acordion {
+    margin: 0% 20%;
+}
