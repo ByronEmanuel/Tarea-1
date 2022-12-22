@@ -23,10 +23,16 @@ p{
 #sec-acordion p{
     text-align: center;
 }
-#sec-acordion {
-    margin: 0% 20%;
+
+
+#sec-tabla h2, p{
+    text-align: center;
 }
 
-#sec-tabla h2{
-    text-align: center;
+#sec-carrucel h2, p{
+text-align: center;
+}
+
+#sec-carrucel{
+    padding: 15px;
 }
